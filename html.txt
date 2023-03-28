@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Test</title>
+        <style>
+            body{
+                background-color:black;
+            }
+            #Div1{
+                display: inline-block;
+                white-space: nowrap;
+                margin-bottom: 0%;
+                vertical-align: top;
+                
+                
+            }
+            
+
+
+
+            .topimg{
+                margin-left: 65%;
+                padding-bottom: 20%;
+                
+                
+            }
+
+            .text{
+                color: orange;
+                font-size: 70pxS;
+                margin-left: 100%;
+                
+                
+            }
+ 
+        </style>
+    </head>
+    <body>
+        
+    <div id="Div1">
+        
+          <img src="C:\Users\apoor\OneDrive\Desktop\projects\Serious Computer Projects\Vspk website\Vspktext.png"width="500px" height="80px" class="topimg">
+        
+        <h1 class="text">|||||||</h1>
+    </div>
+    </body>
+
+</html>
