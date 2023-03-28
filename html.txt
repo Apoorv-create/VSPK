@@ -38,7 +38,7 @@
         
     <div id="Div1">
         
-          <img src="C:\Users\apoor\OneDrive\Desktop\projects\Serious Computer Projects\Vspk website\Vspktext.png"width="500px" height="80px" class="topimg">
+          <img src="..."width="500px" height="80px" class="topimg">
         
         <h1 class="text">|||||||</h1>
     </div>
